@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 13 | 9 | 3 | 1 |
+| 14 | 10 | 3 | 1 |
 
 ## Activity
 
@@ -18,16 +18,16 @@ Contains topicwise list of solved problems.
 | 2026-02-13 | 2 |
 | 2026-06-16 | 2 |
 | 2026-06-20 | 1 |
-| 2026-06-27 | 8 |
+| 2026-06-27 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 10 | 77% |
-| Math | 3 | 23% |
-| Linked List | 1 | 8% |
-| Recursion | 1 | 8% |
+| Database | 11 | 79% |
+| Math | 3 | 21% |
+| Linked List | 1 | 7% |
+| Recursion | 1 | 7% |
 
 ## Topics
 
@@ -39,7 +39,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 10 |
+| [Database](Topics/database/) | 11 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 0 |
