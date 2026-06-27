@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-27T15:54:35.587Z",
+  "updatedAt": "2026-06-27T15:54:43.429Z",
   "problems": [
     {
       "frontendId": "584",
@@ -103,6 +103,26 @@
           "path": "SQL/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
           "sha": "15bbba2a6c4f11fc6d142f7caae2f510b1b0fb5c",
           "lastSyncedAt": "2026-06-27T15:53:47.856Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "problemName": "1683-invalid-tweets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invalid-tweets/",
+      "folderPath": "SQL/1683-invalid-tweets/",
+      "readmePath": "SQL/1683-invalid-tweets/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1683-invalid-tweets.sql",
+          "path": "SQL/1683-invalid-tweets/1683-invalid-tweets.sql",
+          "sha": "2e57aaa695fa3aadd682aff3056eaef12c6ecaff",
+          "lastSyncedAt": "2026-06-27T15:54:43.429Z"
         }
       ]
     },
