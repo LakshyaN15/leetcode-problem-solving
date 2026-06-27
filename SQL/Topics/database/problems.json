@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-27T15:53:47.856Z",
+  "updatedAt": "2026-06-27T15:54:11.200Z",
   "problems": [
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "SQL/0595-big-countries/",
+      "readmePath": "SQL/0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0595-big-countries.py",
+          "path": "SQL/0595-big-countries/0595-big-countries.py",
+          "sha": "31393d42666271244752b4a3b8ef082077faf9f3",
+          "lastSyncedAt": "2026-06-27T15:54:11.200Z"
+        }
+      ]
+    },
     {
       "frontendId": "1581",
       "title": "Customer Who Visited but Did Not Make Any Transactions",
