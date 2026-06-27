@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-27T15:55:02.874Z",
+  "updatedAt": "2026-06-27T16:02:58.559Z",
   "problems": [
     {
       "frontendId": "176",
@@ -163,6 +163,14 @@
           "path": "SQL/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
           "sha": "15bbba2a6c4f11fc6d142f7caae2f510b1b0fb5c",
           "lastSyncedAt": "2026-06-27T15:53:47.856Z"
+        },
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.py",
+          "path": "SQL/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py",
+          "sha": "013a62e223776b954086a990a06b6d84752aab09",
+          "lastSyncedAt": "2026-06-27T16:02:58.559Z"
         }
       ]
     },
