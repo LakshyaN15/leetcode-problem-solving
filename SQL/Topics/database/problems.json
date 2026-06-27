@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-27T15:54:24.141Z",
+  "updatedAt": "2026-06-27T15:54:30.051Z",
   "problems": [
     {
       "frontendId": "584",
@@ -43,6 +43,26 @@
           "path": "SQL/0595-big-countries/0595-big-countries.py",
           "sha": "31393d42666271244752b4a3b8ef082077faf9f3",
           "lastSyncedAt": "2026-06-27T15:54:11.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1068",
+      "title": "Product Sales Analysis I",
+      "slug": "product-sales-analysis-i",
+      "problemName": "1068-product-sales-analysis-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/product-sales-analysis-i/",
+      "folderPath": "SQL/1068-product-sales-analysis-i/",
+      "readmePath": "SQL/1068-product-sales-analysis-i/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1068-product-sales-analysis-i.py",
+          "path": "SQL/1068-product-sales-analysis-i/1068-product-sales-analysis-i.py",
+          "sha": "fae74b325866c78574ac70b45190a50273b56812",
+          "lastSyncedAt": "2026-06-27T15:54:30.051Z"
         }
       ]
     },
