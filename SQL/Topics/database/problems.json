@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-27T15:54:43.429Z",
+  "updatedAt": "2026-06-27T15:54:49.835Z",
   "problems": [
     {
       "frontendId": "584",
@@ -63,6 +63,26 @@
           "path": "SQL/1068-product-sales-analysis-i/1068-product-sales-analysis-i.py",
           "sha": "fae74b325866c78574ac70b45190a50273b56812",
           "lastSyncedAt": "2026-06-27T15:54:30.051Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "problemName": "1148-article-views-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+      "folderPath": "SQL/1148-article-views-i/",
+      "readmePath": "SQL/1148-article-views-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1148-article-views-i.sql",
+          "path": "SQL/1148-article-views-i/1148-article-views-i.sql",
+          "sha": "cb5c69c1e694e0b7a4e727f872c084d4ba94587f",
+          "lastSyncedAt": "2026-06-27T15:54:49.835Z"
         }
       ]
     },
