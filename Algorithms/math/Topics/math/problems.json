@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-28T17:55:19.939Z",
+  "updatedAt": "2026-06-28T17:55:23.794Z",
   "problems": [
     {
       "frontendId": "2",
@@ -42,7 +42,7 @@
           "filename": "0007-reverse-integer.cpp",
           "path": "Algorithms/math/0007-reverse-integer/0007-reverse-integer.cpp",
           "sha": "eb3d126b82b852d6bf881bc6194517cffc4fd7fe",
-          "lastSyncedAt": "2026-06-28T17:53:55.923Z"
+          "lastSyncedAt": "2026-06-28T17:55:23.794Z"
         }
       ]
     },
