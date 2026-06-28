@@ -54,7 +54,7 @@ World table:
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Big Countries](https://leetcode.com/problems/big-countries/) | — | — | — | — | — | [SQL](big-countries.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Big Countries](https://leetcode.com/problems/big-countries/) | — | — | — | [SQL](big-countries.sql) |
 <!-- PROBLEMS:END -->

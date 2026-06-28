@@ -53,7 +53,7 @@ Customer table:
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | — | — | — | — | — | [SQL](find-customer-referee.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | — | — | — | [SQL](find-customer-referee.sql) |
 <!-- PROBLEMS:END -->

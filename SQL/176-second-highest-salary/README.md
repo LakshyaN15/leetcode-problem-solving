@@ -57,7 +57,7 @@ Employee table:
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | — | — | — | — | — | [SQL](second-highest-salary.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | — | — | — | [SQL](second-highest-salary.sql) |
 <!-- PROBLEMS:END -->

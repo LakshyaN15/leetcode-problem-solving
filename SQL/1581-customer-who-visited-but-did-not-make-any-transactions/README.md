@@ -80,8 +80,8 @@ As we can see, users with IDs 30 and 96 visited the mall one time without making
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-| 1581 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | — | — | — | — | — | [Python](1581-customer-who-visited-but-did-not-make-any-transactions.py) |
-| 1581 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | — | — | — | — | — | [SQL](1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | — | — | — | [Python](1581-customer-who-visited-but-did-not-make-any-transactions.py) |
+| 2 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | — | — | — | [SQL](1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
 <!-- PROBLEMS:END -->

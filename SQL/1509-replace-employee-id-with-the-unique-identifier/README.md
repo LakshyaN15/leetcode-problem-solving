@@ -75,7 +75,7 @@ The unique ID of Jonathan is 1.
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | — | — | — | — | — | [SQL](replace-employee-id-with-the-unique-identifier.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | — | — | — | [SQL](replace-employee-id-with-the-unique-identifier.sql) |
 <!-- PROBLEMS:END -->

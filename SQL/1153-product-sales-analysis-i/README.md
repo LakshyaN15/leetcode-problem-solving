@@ -75,7 +75,7 @@ From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | — | — | — | — | — | [SQL](product-sales-analysis-i.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | — | — | — | [SQL](product-sales-analysis-i.sql) |
 <!-- PROBLEMS:END -->

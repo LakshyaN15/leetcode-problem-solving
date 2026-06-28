@@ -49,7 +49,7 @@ Views table:
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Article Views I](https://leetcode.com/problems/article-views-i/) | — | — | — | — | — | [SQL](article-views-i.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Article Views I](https://leetcode.com/problems/article-views-i/) | — | — | — | [SQL](article-views-i.sql) |
 <!-- PROBLEMS:END -->

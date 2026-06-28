@@ -46,7 +46,7 @@ Products table:
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | — | — | — | — | — | [SQL](recyclable-and-low-fat-products.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | — | — | — | [SQL](recyclable-and-low-fat-products.sql) |
 <!-- PROBLEMS:END -->

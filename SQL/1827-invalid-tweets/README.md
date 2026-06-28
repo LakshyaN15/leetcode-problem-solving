@@ -44,7 +44,7 @@ Tweet 2 has length = 33. It is an invalid tweet.
 </pre>
 
 <!-- PROBLEMS:START -->
-| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
-|---|---------|:----------:|--------|----|----|----------|:--------:|
-|  | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | — | — | — | — | — | [SQL](invalid-tweets.sql) |
+| # | Problem | Difficulty | Topics | Approach | Solution |
+|---|---------|:----------:|--------|----------|:--------:|
+| 1 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | — | — | — | [SQL](invalid-tweets.sql) |
 <!-- PROBLEMS:END -->
