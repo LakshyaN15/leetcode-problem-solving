@@ -9,5 +9,5 @@ Solutions in this bucket:
 <!-- PROBLEMS:START -->
 | # | Problem | Difficulty | Topics | TC | SC | Solution |
 |---|---------|:----------:|--------|----|----|:--------:|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Hash Table | O(n) | O(n) | [code](0001-twosum.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Hash Table | O(n) | O(n) | [code](1.twosum.py) |
 <!-- PROBLEMS:END -->
