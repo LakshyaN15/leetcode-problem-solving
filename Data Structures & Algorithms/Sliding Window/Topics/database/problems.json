@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T13:20:07.098Z",
+  "updatedAt": "2026-06-28T13:20:21.742Z",
   "problems": [
     {
       "frontendId": "197",
@@ -23,6 +23,26 @@
           "path": "Data Structures & Algorithms/Sliding Window/Easy/0197-rising-temperature/0197-rising-temperature.py",
           "sha": "2e8a592be9946f412456904af86bc06cccb9d9ce",
           "lastSyncedAt": "2026-06-28T13:20:01.652Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "Data Structures & Algorithms/Sliding Window/Easy/0595-big-countries/",
+      "readmePath": "Data Structures & Algorithms/Sliding Window/Easy/0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0595-big-countries.py",
+          "path": "Data Structures & Algorithms/Sliding Window/Easy/0595-big-countries/0595-big-countries.py",
+          "sha": "31393d42666271244752b4a3b8ef082077faf9f3",
+          "lastSyncedAt": "2026-06-28T13:20:21.742Z"
         }
       ]
     },
