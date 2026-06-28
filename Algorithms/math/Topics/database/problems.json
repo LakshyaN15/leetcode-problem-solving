@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T17:55:12.983Z",
+  "updatedAt": "2026-06-28T17:55:16.358Z",
   "problems": [
     {
       "frontendId": "176",
@@ -22,7 +22,7 @@
           "filename": "0176-second-highest-salary.sql",
           "path": "Algorithms/math/0176-second-highest-salary/0176-second-highest-salary.sql",
           "sha": "f678c358b1f45dbb34c9a84f08a14307ab13ae44",
-          "lastSyncedAt": "2026-06-28T17:53:45.262Z"
+          "lastSyncedAt": "2026-06-28T17:55:16.358Z"
         }
       ]
     },
