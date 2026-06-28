@@ -1,6 +1,6 @@
-# Dynamic Programming
+# Stack & Queue
 
-**LeetCode tags covered here:** Dynamic Programming, Memoization
+**LeetCode tags covered here:** Stack, Queue, Monotonic Stack, Monotonic Queue
 
 Solutions in this bucket:
 

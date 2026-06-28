@@ -1,3 +1,3 @@
 # 📦 Data Structures
 
-LeetCode solutions grouped by data-structure topic.
+Solutions grouped by data-structure bucket.

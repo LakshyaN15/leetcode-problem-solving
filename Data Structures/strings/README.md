@@ -1,6 +1,6 @@
-# Dynamic Programming
+# Strings
 
-**LeetCode tags covered here:** Dynamic Programming, Memoization
+**LeetCode tags covered here:** String, String Matching, Rolling Hash, Suffix Array
 
 Solutions in this bucket:
 

@@ -1,5 +1,7 @@
 # Linked List
 
-Problems solved in this topic:
+**LeetCode tags covered here:** Linked List, Doubly-Linked List
+
+Solutions in this bucket:
 
 <!-- - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy -->

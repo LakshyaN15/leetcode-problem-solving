@@ -1,66 +1,48 @@
 #!/usr/bin/env bash
-# LeetCode topic-wise scaffolder — topics split into data-structures/ and algorithms/.
-# Usage: bash leetcode-topics-setup.sh   (run from your repo root)
+# Scaffold a complete bucket structure covering EVERY LeetCode tag.
+# Granular tags are grouped under their broad home (e.g. Sliding Window -> Arrays).
+# Each bucket's README lists exactly which LeetCode tags it absorbs.
+# Usage: bash scaffold-all.sh   (run from repo root)
 
 set -e
 
-# Data-structure topics
-ds_topics=(
-  "array"
-  "string"
-  "hash-table"
-  "linked-list"
-  "stack"
-  "queue"
-  "tree"
-  "bst"
-  "heap"
-  "graph"
-  "trie"
-  "matrix"
-  "union-find"
+# format: parent | folder | Title | comma-separated LeetCode tags it covers
+buckets=(
+  "Data Structures|arrays|Arrays|Array, Two Pointers, Sliding Window, Prefix Sum, Matrix"
+  "Data Structures|strings|Strings|String, String Matching, Rolling Hash, Suffix Array"
+  "Data Structures|hashing|Hashing|Hash Table, Hash Function, Counting, Ordered Set"
+  "Data Structures|stack-and-queue|Stack & Queue|Stack, Queue, Monotonic Stack, Monotonic Queue"
+  "Data Structures|linked-list|Linked List|Linked List, Doubly-Linked List"
+  "Data Structures|trees|Trees|Tree, Binary Tree, Binary Search Tree, Trie, Segment Tree, Binary Indexed Tree"
+  "Data Structures|heap|Heap / Priority Queue|Heap (Priority Queue)"
+  "Data Structures|graphs|Graphs|Graph, Union-Find, Minimum Spanning Tree, Strongly Connected Component, Biconnected Component, Eulerian Circuit"
+  "Algorithms|searching-and-sorting|Searching & Sorting|Binary Search, Sorting, Merge Sort, Counting Sort, Radix Sort, Bucket Sort, Quickselect, Shell"
+  "Algorithms|graph-traversal|Graph Traversal|Depth-First Search, Breadth-First Search, Topological Sort, Shortest Path"
+  "Algorithms|dynamic-programming|Dynamic Programming|Dynamic Programming, Memoization"
+  "Algorithms|recursion-and-backtracking|Recursion & Backtracking|Recursion, Backtracking, Divide and Conquer"
+  "Algorithms|greedy|Greedy|Greedy, Sweep Line"
+  "Algorithms|math|Math|Math, Number Theory, Combinatorics, Geometry, Bit Manipulation, Bitmask, Probability and Statistics, Game Theory, Randomized, Reservoir Sampling, Rejection Sampling"
+  "Algorithms|design|Design & Simulation|Design, Data Stream, Iterator, Simulation, Enumeration, Brainteaser, Interactive, Concurrency"
+  "Database|database|Database (SQL)|Database"
 )
 
-# Algorithm / technique topics
-algo_topics=(
-  "two-pointers"
-  "sliding-window"
-  "prefix-sum"
-  "binary-search"
-  "sorting"
-  "recursion"
-  "divide-and-conquer"
-  "backtracking"
-  "dfs"
-  "bfs"
-  "dynamic-programming"
-  "greedy"
-  "intervals"
-  "monotonic-stack"
-  "bit-manipulation"
-  "math"
-  "design"
-)
-
-make_topic () {
-  local parent="$1" topic="$2"
-  local dir="$parent/$topic"
+for row in "${buckets[@]}"; do
+  IFS='|' read -r parent folder title tags <<< "$row"
+  dir="$parent/$folder"
   mkdir -p "$dir"
-  local title
-  title=$(echo "$topic" | tr '-' ' ' | awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2)}1')
-  printf "# %s\n\nProblems solved in this topic:\n\n<!-- - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy -->\n" "$title" > "$dir/README.md"
+  {
+    printf "# %s\n\n" "$title"
+    printf "**LeetCode tags covered here:** %s\n\n" "$tags"
+    printf "Solutions in this bucket:\n\n"
+    printf "<!-- - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy -->\n"
+  } > "$dir/README.md"
   echo "Created $dir/"
-}
+done
 
-for t in "${ds_topics[@]}";   do make_topic "Data Structures" "$t"; done
-for t in "${algo_topics[@]}"; do make_topic "Algorithms"      "$t"; done
+# parent-folder READMEs
+printf "# 📦 Data Structures\n\nSolutions grouped by data-structure bucket.\n" > "Data Structures/README.md"
+printf "# ⚙️ Algorithms\n\nSolutions grouped by algorithm bucket.\n" > "Algorithms/README.md"
+printf "# 🗄️ Database\n\nSQL solutions.\n" > "Database/README.md"
 
-# Parent-folder READMEs
-printf "# 📦 Data Structures\n\nLeetCode solutions grouped by data-structure topic.\n" > "Data Structures/README.md"
-printf "# ⚙️ Algorithms & Techniques\n\nLeetCode solutions grouped by algorithm/technique.\n" > "Algorithms/README.md"
-
-total=$(( ${#ds_topics[@]} + ${#algo_topics[@]} ))
 echo ""
-echo "✅ Created $total topic folders ( ${#ds_topics[@]} data-structures, ${#algo_topics[@]} algorithms )."
-echo "Now run:"
-echo "   git add . && git commit -m 'Scaffold LeetCode topic folders' && git push"
+echo "✅ Created ${#buckets[@]} buckets covering all LeetCode tags."

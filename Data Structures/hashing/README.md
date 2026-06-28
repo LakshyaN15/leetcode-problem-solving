@@ -1,6 +1,6 @@
-# Dynamic Programming
+# Hashing
 
-**LeetCode tags covered here:** Dynamic Programming, Memoization
+**LeetCode tags covered here:** Hash Table, Hash Function, Counting, Ordered Set
 
 Solutions in this bucket:
 

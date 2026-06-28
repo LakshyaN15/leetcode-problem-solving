@@ -1,3 +1,3 @@
-# ⚙️ Algorithms & Techniques
+# ⚙️ Algorithms
 
-LeetCode solutions grouped by algorithm/technique.
+Solutions grouped by algorithm bucket.

@@ -1,6 +1,6 @@
-# Dynamic Programming
+# Recursion & Backtracking
 
-**LeetCode tags covered here:** Dynamic Programming, Memoization
+**LeetCode tags covered here:** Recursion, Backtracking, Divide and Conquer
 
 Solutions in this bucket:
 

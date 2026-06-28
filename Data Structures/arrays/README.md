@@ -1,6 +1,6 @@
-# Dynamic Programming
+# Arrays
 
-**LeetCode tags covered here:** Dynamic Programming, Memoization
+**LeetCode tags covered here:** Array, Two Pointers, Sliding Window, Prefix Sum, Matrix
 
 Solutions in this bucket:
 

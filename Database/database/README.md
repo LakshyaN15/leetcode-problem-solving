@@ -1,6 +1,6 @@
-# Dynamic Programming
+# Database (SQL)
 
-**LeetCode tags covered here:** Dynamic Programming, Memoization
+**LeetCode tags covered here:** Database
 
 Solutions in this bucket:
 
