@@ -3,7 +3,7 @@
 Solutions organized by topic. The counts below update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-2-blue) ![Easy](https://img.shields.io/badge/Easy-2-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-1-blue) ![Easy](https://img.shields.io/badge/Easy-1-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 <!-- BADGES:END -->
 
 ---
@@ -37,8 +37,7 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Math | [math](Algorithms/math) | 0 | 0 | 0 | 0 |
 | Recursion And Backtracking | [recursion-and-backtracking](Algorithms/recursion-and-backtracking) | 0 | 0 | 0 | 0 |
 | Searching And Sorting | [searching-and-sorting](Algorithms/searching-and-sorting) | 0 | 0 | 0 | 0 |
-| Two Pointers | [two-pointers](Algorithms/two-pointers) | 1 | 0 | 0 | 1 |
-| **Total** | | **1** | **0** | **0** | **1** |
+| **Total** | | **0** | **0** | **0** | **0** |
 <!-- ALGO:END -->
 
 ---
