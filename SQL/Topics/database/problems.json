@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-27T16:15:21.582Z",
+  "updatedAt": "2026-06-28T13:18:49.029Z",
   "problems": [
     {
       "frontendId": "176",
@@ -53,8 +53,8 @@
       "problemName": "0197-rising-temperature",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
-      "folderPath": "SQL/0197-rising-temperature/",
-      "readmePath": "SQL/0197-rising-temperature/README.md",
+      "folderPath": "SQL/Easy/0197-rising-temperature/",
+      "readmePath": "SQL/Easy/0197-rising-temperature/README.md",
       "solutions": [
         {
           "language": "MySQL",
@@ -70,7 +70,7 @@
           "filename": "0197-rising-temperature.py",
           "path": "SQL/0197-rising-temperature/0197-rising-temperature.py",
           "sha": "2e8a592be9946f412456904af86bc06cccb9d9ce",
-          "lastSyncedAt": "2026-06-27T16:15:21.582Z"
+          "lastSyncedAt": "2026-06-28T13:18:49.029Z"
         }
       ]
     },
