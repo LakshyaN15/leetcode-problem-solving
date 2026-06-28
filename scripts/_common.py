@@ -142,7 +142,7 @@ def collect_approaches(text: str) -> str:
             i += 1
         if parts:
             blocks.append(" ".join(parts))
-    return "  •  ".join(blocks)             # separate multiple approaches clearly
+    return "<br>".join(blocks)               # each approach on its own line in the cell
 
 
 def build_problem(key: str, code_files: list, readme_texts: list, topic_dir: Path) -> dict:
