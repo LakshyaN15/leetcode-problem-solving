@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T13:29:28.104Z",
+  "updatedAt": "2026-06-28T13:29:29.932Z",
   "problems": [
     {
       "frontendId": "197",
@@ -83,6 +83,26 @@
           "path": "Data Structures & Algorithms/Sliding Window/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py",
           "sha": "013a62e223776b954086a990a06b6d84752aab09",
           "lastSyncedAt": "2026-06-28T13:29:15.444Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "problemName": "1757-recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+      "folderPath": "Data Structures & Algorithms/Easy/1757-recyclable-and-low-fat-products/",
+      "readmePath": "Data Structures & Algorithms/Easy/1757-recyclable-and-low-fat-products/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1757-recyclable-and-low-fat-products.py",
+          "path": "Data Structures & Algorithms/Sliding Window/Easy/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.py",
+          "sha": "6427133c982a8b7700b27ce84717cdc13f724c90",
+          "lastSyncedAt": "2026-06-28T13:29:29.932Z"
         }
       ]
     }
