@@ -14,18 +14,14 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
 | Array | [array](Data%20Structures/array) | 1 | 0 | 0 | 1 |
-| Bst | [bst](Data%20Structures/bst) | 0 | 0 | 0 | 0 |
-| Graph | [graph](Data%20Structures/graph) | 0 | 0 | 0 | 0 |
-| Hash Table | [hash-table](Data%20Structures/hash-table) | 0 | 0 | 0 | 0 |
+| Arrays | [arrays](Data%20Structures/arrays) | 0 | 0 | 0 | 0 |
+| Graphs | [graphs](Data%20Structures/graphs) | 0 | 0 | 0 | 0 |
+| Hashing | [hashing](Data%20Structures/hashing) | 0 | 0 | 0 | 0 |
 | Heap | [heap](Data%20Structures/heap) | 0 | 0 | 0 | 0 |
 | Linked List | [linked-list](Data%20Structures/linked-list) | 0 | 0 | 0 | 0 |
-| Matrix | [matrix](Data%20Structures/matrix) | 0 | 0 | 0 | 0 |
-| Queue | [queue](Data%20Structures/queue) | 0 | 0 | 0 | 0 |
-| Stack | [stack](Data%20Structures/stack) | 0 | 0 | 0 | 0 |
-| String | [string](Data%20Structures/string) | 0 | 0 | 0 | 0 |
-| Tree | [tree](Data%20Structures/tree) | 0 | 0 | 0 | 0 |
-| Trie | [trie](Data%20Structures/trie) | 0 | 0 | 0 | 0 |
-| Union Find | [union-find](Data%20Structures/union-find) | 0 | 0 | 0 | 0 |
+| Stack And Queue | [stack-and-queue](Data%20Structures/stack-and-queue) | 0 | 0 | 0 | 0 |
+| Strings | [strings](Data%20Structures/strings) | 0 | 0 | 0 | 0 |
+| Trees | [trees](Data%20Structures/trees) | 0 | 0 | 0 | 0 |
 | **Total** | | **1** | **0** | **0** | **1** |
 <!-- DS:END -->
 
@@ -34,22 +30,13 @@ Solutions organized by topic. The counts below update automatically on every pus
 <!-- ALGO:START -->
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
-| Backtracking | [backtracking](Algorithms/backtracking) | 0 | 0 | 0 | 0 |
-| Bfs | [bfs](Algorithms/bfs) | 0 | 0 | 0 | 0 |
-| Binary Search | [binary-search](Algorithms/binary-search) | 0 | 0 | 0 | 0 |
-| Bit Manipulation | [bit-manipulation](Algorithms/bit-manipulation) | 0 | 0 | 0 | 0 |
 | Design | [design](Algorithms/design) | 0 | 0 | 0 | 0 |
-| Dfs | [dfs](Algorithms/dfs) | 0 | 0 | 0 | 0 |
-| Divide And Conquer | [divide-and-conquer](Algorithms/divide-and-conquer) | 0 | 0 | 0 | 0 |
 | Dynamic Programming | [dynamic-programming](Algorithms/dynamic-programming) | 0 | 0 | 0 | 0 |
+| Graph Traversal | [graph-traversal](Algorithms/graph-traversal) | 0 | 0 | 0 | 0 |
 | Greedy | [greedy](Algorithms/greedy) | 0 | 0 | 0 | 0 |
-| Intervals | [intervals](Algorithms/intervals) | 0 | 0 | 0 | 0 |
 | Math | [math](Algorithms/math) | 0 | 0 | 0 | 0 |
-| Monotonic Stack | [monotonic-stack](Algorithms/monotonic-stack) | 0 | 0 | 0 | 0 |
-| Prefix Sum | [prefix-sum](Algorithms/prefix-sum) | 0 | 0 | 0 | 0 |
-| Recursion | [recursion](Algorithms/recursion) | 0 | 0 | 0 | 0 |
-| Sliding Window | [sliding-window](Algorithms/sliding-window) | 0 | 0 | 0 | 0 |
-| Sorting | [sorting](Algorithms/sorting) | 0 | 0 | 0 | 0 |
+| Recursion And Backtracking | [recursion-and-backtracking](Algorithms/recursion-and-backtracking) | 0 | 0 | 0 | 0 |
+| Searching And Sorting | [searching-and-sorting](Algorithms/searching-and-sorting) | 0 | 0 | 0 | 0 |
 | Two Pointers | [two-pointers](Algorithms/two-pointers) | 1 | 0 | 0 | 1 |
 | **Total** | | **1** | **0** | **0** | **1** |
 <!-- ALGO:END -->
