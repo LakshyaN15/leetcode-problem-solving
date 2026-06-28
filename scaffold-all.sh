@@ -23,7 +23,7 @@ buckets=(
   "Algorithms|greedy|Greedy|Greedy, Sweep Line"
   "Algorithms|math|Math|Math, Number Theory, Combinatorics, Geometry, Bit Manipulation, Bitmask, Probability and Statistics, Game Theory, Randomized, Reservoir Sampling, Rejection Sampling"
   "Algorithms|design|Design & Simulation|Design, Data Stream, Iterator, Simulation, Enumeration, Brainteaser, Interactive, Concurrency"
-  "Database|database|Database (SQL)|Database"
+ 
 )
 
 for row in "${buckets[@]}"; do
