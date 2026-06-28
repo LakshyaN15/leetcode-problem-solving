@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-28T13:20:10.672Z",
+  "updatedAt": "2026-06-28T13:20:55.765Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "Data Structures & Algorithms/Sliding Window/Medium/0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "e3f6ef2ad449cec6b0cac7a24c49afcc408d73b2",
           "lastSyncedAt": "2026-06-28T13:20:10.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "Data Structures & Algorithms/Sliding Window/Easy/0009-palindrome-number/",
+      "readmePath": "Data Structures & Algorithms/Sliding Window/Easy/0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "Data Structures & Algorithms/Sliding Window/Easy/0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "cfa2b367dcc2758b66a5567216e8f0ccd9b013a2",
+          "lastSyncedAt": "2026-06-28T13:20:55.765Z"
         }
       ]
     }
