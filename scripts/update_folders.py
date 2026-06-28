@@ -70,7 +70,7 @@ def update_folder_readme(folder, builder=build_table):
 
 def main():
     updated = 0
-    for parent in ["Data Structures", "Algorithms"]:
+    for parent in ["DataStructures", "Algorithms"]:
         base = ROOT / parent
         if not base.exists():
             continue
