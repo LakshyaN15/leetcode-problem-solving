@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T17:53:35.115Z",
+  "updatedAt": "2026-06-28T17:53:40.641Z",
   "problems": [
+    {
+      "frontendId": "185",
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "problemName": "0185-department-top-three-salaries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries/",
+      "folderPath": "Algorithms/math/0185-department-top-three-salaries/",
+      "readmePath": "Algorithms/math/0185-department-top-three-salaries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0185-department-top-three-salaries.sql",
+          "path": "Algorithms/math/0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
+          "sha": "324a9b7bf2174238862e8ef0579098a75ee45fd4",
+          "lastSyncedAt": "2026-06-28T17:53:40.641Z"
+        }
+      ]
+    },
     {
       "frontendId": "1068",
       "title": "Product Sales Analysis I",
