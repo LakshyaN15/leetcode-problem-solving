@@ -1,3 +1,4 @@
+# Complexity
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
         stack = [-1]  # Base index
