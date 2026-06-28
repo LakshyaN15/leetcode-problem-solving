@@ -52,3 +52,9 @@ World table:
 | Algeria     | 37100000   | 2381741 |
 +-------------+------------+---------+
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+|  | [Big Countries](https://leetcode.com/problems/big-countries/) | — | — | — | — | — | [SQL](big-countries.sql) |
+<!-- PROBLEMS:END -->

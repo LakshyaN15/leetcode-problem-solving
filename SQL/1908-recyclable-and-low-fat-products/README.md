@@ -44,3 +44,9 @@ Products table:
 +-------------+
 <strong>Explanation:</strong> Only products 1 and 3 are both low fat and recyclable.
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+|  | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | — | — | — | — | — | [SQL](recyclable-and-low-fat-products.sql) |
+<!-- PROBLEMS:END -->

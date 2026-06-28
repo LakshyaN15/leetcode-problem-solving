@@ -46,3 +46,10 @@ Weather table:
 In 2015-01-02, the temperature was higher than the previous day (10 -&gt; 25).
 In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | — | — | — | — | — | [Python](0197-rising-temperature.py) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | — | — | — | — | — | [SQL](0197-rising-temperature.sql) |
+<!-- PROBLEMS:END -->

@@ -78,3 +78,10 @@ Customer with id = 54 visited the mall three times. During 2 visits they did not
 Customer with id = 96 visited the mall once and did not make any transactions.
 As we can see, users with IDs 30 and 96 visited the mall one time without making any transactions. Also, user 54 visited the mall twice and did not make any transactions.
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+| 1581 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | — | — | — | — | — | [Python](1581-customer-who-visited-but-did-not-make-any-transactions.py) |
+| 1581 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | — | — | — | — | — | [SQL](1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
+<!-- PROBLEMS:END -->

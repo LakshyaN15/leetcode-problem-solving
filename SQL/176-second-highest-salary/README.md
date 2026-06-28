@@ -55,3 +55,9 @@ Employee table:
 | null                |
 +---------------------+
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+|  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | — | — | — | — | — | [SQL](second-highest-salary.sql) |
+<!-- PROBLEMS:END -->

@@ -47,3 +47,9 @@ Views table:
 | 7    |
 +------+
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+|  | [Article Views I](https://leetcode.com/problems/article-views-i/) | — | — | — | — | — | [SQL](article-views-i.sql) |
+<!-- PROBLEMS:END -->

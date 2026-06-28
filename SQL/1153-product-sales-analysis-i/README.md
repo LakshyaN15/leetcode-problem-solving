@@ -73,3 +73,9 @@ From sale_id = 1, we can conclude that Nokia was sold for 5000 in the year 2008.
 From sale_id = 2, we can conclude that Nokia was sold for 5000 in the year 2009.
 From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+|  | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | — | — | — | — | — | [SQL](product-sales-analysis-i.sql) |
+<!-- PROBLEMS:END -->

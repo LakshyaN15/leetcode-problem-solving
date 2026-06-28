@@ -51,3 +51,9 @@ Customer table:
 | Zack |
 +------+
 </pre>
+
+<!-- PROBLEMS:START -->
+| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |
+|---|---------|:----------:|--------|----|----|----------|:--------:|
+|  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | — | — | — | — | — | [SQL](find-customer-referee.sql) |
+<!-- PROBLEMS:END -->
