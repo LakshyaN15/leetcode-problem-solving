@@ -3,7 +3,7 @@
 Solutions organized by topic. The counts below update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-0-blue) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-1-blue) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 <!-- BADGES:END -->
 
 ---
@@ -33,10 +33,10 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Dynamic Programming | [dynamic-programming](Algorithms/dynamic-programming) | 0 | 0 | 0 | 0 |
 | Graph Traversal | [graph-traversal](Algorithms/graph-traversal) | 0 | 0 | 0 | 0 |
 | Greedy | [greedy](Algorithms/greedy) | 0 | 0 | 0 | 0 |
-| Math | [math](Algorithms/math) | 0 | 0 | 0 | 0 |
+| Math | [math](Algorithms/math) | 0 | 1 | 0 | 1 |
 | Recursion And Backtracking | [recursion-and-backtracking](Algorithms/recursion-and-backtracking) | 0 | 0 | 0 | 0 |
 | Searching And Sorting | [searching-and-sorting](Algorithms/searching-and-sorting) | 0 | 0 | 0 | 0 |
-| **Total** | | **0** | **0** | **0** | **0** |
+| **Total** | | **0** | **1** | **0** | **1** |
 <!-- ALGO:END -->
 
 ---

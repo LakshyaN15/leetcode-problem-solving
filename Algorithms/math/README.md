@@ -7,5 +7,7 @@ Solutions in this bucket:
 <!-- - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy -->
 
 <!-- PROBLEMS:START -->
-_No problems yet._
+| # | Problem | Difficulty | Topics | TC | SC | Solution |
+|---|---------|:----------:|--------|----|----|:--------:|
+|  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | Math | O(n) | O(n) | [code](reverse-integer.py) |
 <!-- PROBLEMS:END -->
