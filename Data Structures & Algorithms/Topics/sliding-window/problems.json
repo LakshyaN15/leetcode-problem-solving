@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-06-28T13:41:30.021Z",
+  "updatedAt": "2026-06-28T13:42:31.278Z",
   "problems": [
     {
       "frontendId": "643",
@@ -16,6 +16,14 @@
       "folderPath": "Data Structures & Algorithms/Easy/0643-maximum-average-subarray-i/",
       "readmePath": "Data Structures & Algorithms/Easy/0643-maximum-average-subarray-i/README.md",
       "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0643-maximum-average-subarray-i-ne.py",
+          "path": "Data Structures & Algorithms/Easy/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i-ne.py",
+          "sha": "780141e6de4c39076517da3b5e43acde9fa34e91",
+          "lastSyncedAt": "2026-06-28T13:42:31.278Z"
+        },
         {
           "language": "Python3",
           "extension": ".py",
