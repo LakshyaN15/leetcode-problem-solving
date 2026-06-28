@@ -3,7 +3,7 @@
 Solutions organized by topic. Counts update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-13-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-4-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-14-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-4-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 <!-- BADGES:END -->
 
 ---
@@ -30,13 +30,13 @@ Solutions organized by topic. Counts update automatically on every push.
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
 | Design | [design](Algorithms/design) | 0 | 0 | 0 | 0 |
-| Dynamic Programming | [dynamic-programming](Algorithms/dynamic-programming) | 0 | 0 | 0 | 0 |
+| Dynamic Programming | [dynamic-programming](Algorithms/dynamic-programming) | 0 | 0 | 1 | 1 |
 | Graph Traversal | [graph-traversal](Algorithms/graph-traversal) | 0 | 0 | 0 | 0 |
 | Greedy | [greedy](Algorithms/greedy) | 0 | 0 | 0 | 0 |
 | Math | [math](Algorithms/math) | 0 | 1 | 0 | 1 |
 | Recursion And Backtracking | [recursion-and-backtracking](Algorithms/recursion-and-backtracking) | 0 | 0 | 0 | 0 |
 | Searching And Sorting | [searching-and-sorting](Algorithms/searching-and-sorting) | 0 | 0 | 0 | 0 |
-| **Total** | | **0** | **1** | **0** | **1** |
+| **Total** | | **0** | **1** | **1** | **2** |
 <!-- ALGO:END -->
 
 ## 🗄️ SQL
