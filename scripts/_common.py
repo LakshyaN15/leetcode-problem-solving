@@ -140,6 +140,8 @@ def collect_approaches(text: str) -> str:
             if HEADER_KEYS.match(lines[i]) or APPROACH_START.match(lines[i]):
                 break                       # next key / next approach ends it
             txt = s.lstrip("#/*  \t").strip()
+            # if TC and SC are on the same line, split SC onto its own line
+            txt = re.sub(r"\s+(SC\b)", r"<br>\1", txt, flags=re.IGNORECASE)
             parts.append((txt, bool(tc_sc_re.match(txt))))  # break before TC/SC lines
             i += 1
         if parts:
