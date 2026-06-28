@@ -120,14 +120,15 @@ def collect_approaches(text: str) -> str:
     lines = text.splitlines()
     i = 0
     n = len(lines)
+    tc_sc_re = re.compile(r"^\s*(TC|SC|Time|Space)\b", re.IGNORECASE)
     while i < n:
         m = APPROACH_START.match(lines[i])
         if not m:
             i += 1
             continue
-        parts = []
+        parts = []          # each part is (text, break_before?)
         if m.group(1).strip():
-            parts.append(m.group(1).strip())
+            parts.append((m.group(1).strip(), False))
         i += 1
         # gather continuation comment lines
         while i < n:
@@ -138,10 +139,15 @@ def collect_approaches(text: str) -> str:
                 break                       # real code ends the block
             if HEADER_KEYS.match(lines[i]) or APPROACH_START.match(lines[i]):
                 break                       # next key / next approach ends it
-            parts.append(s.lstrip("#/*  \t").strip())
+            txt = s.lstrip("#/*  \t").strip()
+            parts.append((txt, bool(tc_sc_re.match(txt))))  # break before TC/SC lines
             i += 1
         if parts:
-            blocks.append(" ".join(parts))
+            # join: space normally, <br> before a TC/SC continuation line
+            out = parts[0][0]
+            for txt, brk in parts[1:]:
+                out += ("<br>" if brk else " ") + txt
+            blocks.append(out)
     return "<br>".join(blocks)               # each approach on its own line in the cell
 
 
