@@ -3,7 +3,7 @@
 Solutions organized by topic. The counts below update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-0-blue) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-1-blue) ![Easy](https://img.shields.io/badge/Easy-1-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 <!-- BADGES:END -->
 
 ---
@@ -13,7 +13,7 @@ Solutions organized by topic. The counts below update automatically on every pus
 <!-- DS:START -->
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
-| Array | [array](Data%20Structures/array) | 0 | 0 | 0 | 0 |
+| Array | [array](Data%20Structures/array) | 1 | 0 | 0 | 1 |
 | Bst | [bst](Data%20Structures/bst) | 0 | 0 | 0 | 0 |
 | Graph | [graph](Data%20Structures/graph) | 0 | 0 | 0 | 0 |
 | Hash Table | [hash-table](Data%20Structures/hash-table) | 0 | 0 | 0 | 0 |
@@ -26,7 +26,7 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Tree | [tree](Data%20Structures/tree) | 0 | 0 | 0 | 0 |
 | Trie | [trie](Data%20Structures/trie) | 0 | 0 | 0 | 0 |
 | Union Find | [union-find](Data%20Structures/union-find) | 0 | 0 | 0 | 0 |
-| **Total** | | **0** | **0** | **0** | **0** |
+| **Total** | | **1** | **0** | **0** | **1** |
 <!-- DS:END -->
 
 ## ⚙️ Algorithms & Techniques
