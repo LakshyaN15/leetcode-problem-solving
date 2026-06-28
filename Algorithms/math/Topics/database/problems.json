@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T17:53:21.373Z",
+  "updatedAt": "2026-06-28T17:53:25.831Z",
   "problems": [
     {
       "frontendId": "1068",
@@ -23,6 +23,26 @@
           "path": "Algorithms/math/1068-product-sales-analysis-i/1068-product-sales-analysis-i.py",
           "sha": "fae74b325866c78574ac70b45190a50273b56812",
           "lastSyncedAt": "2026-06-28T17:53:21.373Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1378",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "problemName": "1378-replace-employee-id-with-the-unique-identifier",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+      "folderPath": "Algorithms/math/1378-replace-employee-id-with-the-unique-identifier/",
+      "readmePath": "Algorithms/math/1378-replace-employee-id-with-the-unique-identifier/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1378-replace-employee-id-with-the-unique-identifier.sql",
+          "path": "Algorithms/math/1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql",
+          "sha": "3ced0b6d24ae7aff1564fce35a83d8d2e6630a3e",
+          "lastSyncedAt": "2026-06-28T17:53:25.831Z"
         }
       ]
     },
