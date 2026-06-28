@@ -13,6 +13,14 @@ Solutions organized by topic. Counts update automatically on every push.
 <!-- DS:START -->
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
+| Arrays | [arrays](DataStructures/arrays) | 0 | 0 | 0 | 0 |
+| Graphs | [graphs](DataStructures/graphs) | 0 | 0 | 0 | 0 |
+| Hashing | [hashing](DataStructures/hashing) | 0 | 0 | 0 | 0 |
+| Heap | [heap](DataStructures/heap) | 0 | 0 | 0 | 0 |
+| Linked List | [linked-list](DataStructures/linked-list) | 0 | 0 | 0 | 0 |
+| Stack And Queue | [stack-and-queue](DataStructures/stack-and-queue) | 0 | 0 | 0 | 0 |
+| Strings | [strings](DataStructures/strings) | 0 | 0 | 0 | 0 |
+| Trees | [trees](DataStructures/trees) | 0 | 0 | 0 | 0 |
 | **Total** | | **0** | **0** | **0** | **0** |
 <!-- DS:END -->
 
