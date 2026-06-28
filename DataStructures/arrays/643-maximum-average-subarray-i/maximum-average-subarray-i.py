@@ -5,7 +5,7 @@
 # Approach: 1. Sum first K elements, slide across array -> add new element
 # Subtract the element leaving window, track max sum seen and divide final max by k to get avg
 # TC: O(n) - Scan array once 
-# SC: (1), no extra space
+# SC: O(1) - No extra space
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         s=sum(nums[:k]) # 1+12+(-5),+(-6)=2
