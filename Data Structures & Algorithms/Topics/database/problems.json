@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-06-28T13:29:11.941Z",
+  "problems": [
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "Data Structures & Algorithms/Easy/0197-rising-temperature/",
+      "readmePath": "Data Structures & Algorithms/Easy/0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0197-rising-temperature.py",
+          "path": "Data Structures & Algorithms/Sliding Window/Easy/0197-rising-temperature/0197-rising-temperature.py",
+          "sha": "2e8a592be9946f412456904af86bc06cccb9d9ce",
+          "lastSyncedAt": "2026-06-28T13:29:11.941Z"
+        }
+      ]
+    }
+  ]
+}
