@@ -3,7 +3,7 @@
 Solutions organized by topic. The counts below update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-4-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-2-blue) ![Easy](https://img.shields.io/badge/Easy-2-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 <!-- BADGES:END -->
 
 ---
@@ -13,7 +13,7 @@ Solutions organized by topic. The counts below update automatically on every pus
 <!-- DS:START -->
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
-| Array | [array](Data%20Structures/array) | 3 | 0 | 0 | 4 |
+| Array | [array](Data%20Structures/array) | 1 | 0 | 0 | 1 |
 | Bst | [bst](Data%20Structures/bst) | 0 | 0 | 0 | 0 |
 | Graph | [graph](Data%20Structures/graph) | 0 | 0 | 0 | 0 |
 | Hash Table | [hash-table](Data%20Structures/hash-table) | 0 | 0 | 0 | 0 |
@@ -26,7 +26,7 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Tree | [tree](Data%20Structures/tree) | 0 | 0 | 0 | 0 |
 | Trie | [trie](Data%20Structures/trie) | 0 | 0 | 0 | 0 |
 | Union Find | [union-find](Data%20Structures/union-find) | 0 | 0 | 0 | 0 |
-| **Total** | | **3** | **0** | **0** | **4** |
+| **Total** | | **1** | **0** | **0** | **1** |
 <!-- DS:END -->
 
 ## ⚙️ Algorithms & Techniques
@@ -50,8 +50,8 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Recursion | [recursion](Algorithms/recursion) | 0 | 0 | 0 | 0 |
 | Sliding Window | [sliding-window](Algorithms/sliding-window) | 0 | 0 | 0 | 0 |
 | Sorting | [sorting](Algorithms/sorting) | 0 | 0 | 0 | 0 |
-| Two Pointers | [two-pointers](Algorithms/two-pointers) | 0 | 0 | 0 | 0 |
-| **Total** | | **0** | **0** | **0** | **0** |
+| Two Pointers | [two-pointers](Algorithms/two-pointers) | 1 | 0 | 0 | 1 |
+| **Total** | | **1** | **0** | **0** | **1** |
 <!-- ALGO:END -->
 
 ---
