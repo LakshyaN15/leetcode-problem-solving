@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 # Approach: Lead()
 with cte as (
     select num,
