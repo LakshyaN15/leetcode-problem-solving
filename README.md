@@ -1,9 +1,9 @@
 # 🧩 LeetCode — Topic-Wise Solutions
 
-Solutions organized by topic. The counts below update automatically on every push.
+Solutions organized by topic. Counts update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-1-blue) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen) ![Medium](https://img.shields.io/badge/Medium-1-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-13-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-3-orange) ![Hard](https://img.shields.io/badge/Hard-0-red)
 <!-- BADGES:END -->
 
 ---
@@ -38,6 +38,14 @@ Solutions organized by topic. The counts below update automatically on every pus
 | Searching And Sorting | [searching-and-sorting](Algorithms/searching-and-sorting) | 0 | 0 | 0 | 0 |
 | **Total** | | **0** | **1** | **0** | **1** |
 <!-- ALGO:END -->
+
+## 🗄️ SQL
+
+<!-- SQL:START -->
+| Category | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
+|----------|--------|:------:|:------:|:------:|:------:|
+| SQL | [SQL](SQL) | 9 | 2 | 0 | 12 |
+<!-- SQL:END -->
 
 ---
 
