@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T13:29:11.941Z",
+  "updatedAt": "2026-06-28T13:29:15.444Z",
   "problems": [
     {
       "frontendId": "197",
@@ -23,6 +23,26 @@
           "path": "Data Structures & Algorithms/Sliding Window/Easy/0197-rising-temperature/0197-rising-temperature.py",
           "sha": "2e8a592be9946f412456904af86bc06cccb9d9ce",
           "lastSyncedAt": "2026-06-28T13:29:11.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1581",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "slug": "customer-who-visited-but-did-not-make-any-transactions",
+      "problemName": "1581-customer-who-visited-but-did-not-make-any-transactions",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
+      "folderPath": "Data Structures & Algorithms/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/",
+      "readmePath": "Data Structures & Algorithms/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.py",
+          "path": "Data Structures & Algorithms/Sliding Window/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py",
+          "sha": "013a62e223776b954086a990a06b6d84752aab09",
+          "lastSyncedAt": "2026-06-28T13:29:15.444Z"
         }
       ]
     }
