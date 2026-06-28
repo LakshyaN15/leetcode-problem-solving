@@ -16,9 +16,9 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent.parent
 
 # Parent folders that hold topic buckets
-DS_PARENTS = ["Data Structures"]
+DS_PARENTS = ["DataStructures"]
 ALGO_PARENTS = ["Algorithms"]
-ALL_PARENTS = ["Data Structures", "Algorithms", "Database", "SQL"]
+ALL_PARENTS = ["DataStructures", "Algorithms", "SQL"]
 
 START, END = "<!-- PROBLEMS:START -->", "<!-- PROBLEMS:END -->"
 DIFF_EMOJI = {"Easy": "🟢 Easy", "Medium": "🟡 Medium", "Hard": "🔴 Hard"}
