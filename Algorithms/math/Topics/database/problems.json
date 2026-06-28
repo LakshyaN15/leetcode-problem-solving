@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T17:55:09.330Z",
+  "updatedAt": "2026-06-28T17:55:12.983Z",
   "problems": [
     {
       "frontendId": "176",
@@ -42,7 +42,7 @@
           "filename": "0185-department-top-three-salaries.sql",
           "path": "Algorithms/math/0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
           "sha": "324a9b7bf2174238862e8ef0579098a75ee45fd4",
-          "lastSyncedAt": "2026-06-28T17:53:40.641Z"
+          "lastSyncedAt": "2026-06-28T17:55:12.983Z"
         }
       ]
     },
