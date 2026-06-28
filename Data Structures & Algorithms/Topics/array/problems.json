@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-06-28T13:36:43.432Z",
+  "updatedAt": "2026-06-28T13:39:53.422Z",
   "problems": [
     {
       "frontendId": "643",
@@ -30,7 +30,7 @@
           "filename": "0643-maximum-average-subarray-i.py",
           "path": "Data Structures & Algorithms/Sliding Window/Easy/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.py",
           "sha": "df66fec125c1ed07e3e48b88aae4e9d64ddec359",
-          "lastSyncedAt": "2026-06-28T13:36:43.432Z"
+          "lastSyncedAt": "2026-06-28T13:39:53.422Z"
         }
       ]
     }
