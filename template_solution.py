@@ -1,12 +1,11 @@
-# Title: Two Sum
-# Link: https://leetcode.com/problems/two-sum/
-# Difficulty: Easy
-# Topics: Array, Hash Table
-# TC: O(n)
-# SC: O(n)
+# Title: 
+# Link: 
+# Difficulty: 
+# Topics: 
+# TC: 
+# SC: 
 #
-# Approach: hash map from value -> index; for each number check if its
-# complement was already seen.
+# Approach: 
 from typing import List
 
 
