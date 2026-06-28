@@ -1,4 +1,4 @@
-# Title: 1. Reverse Integer
+# Title: Reverse Integer
 # Link: https://leetcode.com/problems/reverse-integer/
 # Difficulty: Medium
 # Topics: Math
