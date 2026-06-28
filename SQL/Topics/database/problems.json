@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T13:18:49.029Z",
+  "updatedAt": "2026-06-28T13:18:51.844Z",
   "problems": [
     {
       "frontendId": "176",
@@ -181,8 +181,8 @@
       "problemName": "1581-customer-who-visited-but-did-not-make-any-transactions",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
-      "folderPath": "SQL/1581-customer-who-visited-but-did-not-make-any-transactions/",
-      "readmePath": "SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md",
+      "folderPath": "SQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/",
+      "readmePath": "SQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/README.md",
       "solutions": [
         {
           "language": "MySQL",
@@ -198,7 +198,7 @@
           "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.py",
           "path": "SQL/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py",
           "sha": "013a62e223776b954086a990a06b6d84752aab09",
-          "lastSyncedAt": "2026-06-27T16:02:58.559Z"
+          "lastSyncedAt": "2026-06-28T13:18:51.844Z"
         }
       ]
     },
