@@ -42,19 +42,46 @@ def is_code(f: Path) -> bool:
 
 
 def parse_header(text: str) -> dict:
-    """Read 'Key: value' lines from the leading comment block (any comment style)."""
+    """
+    Read 'Key: value' lines from the leading comment block (any comment style).
+
+    'Approach' is special: it is multi-line. Once we see '# Approach:', every
+    following comment line is appended to the approach (so a multi-step write-up
+    comes through in full) until the header ends.
+    """
+    KNOWN = {"title", "link", "difficulty", "topics", "tc", "sc", "number", "no", "approach"}
     fields = {}
-    for line in text.splitlines()[:25]:
+    in_approach = False
+    approach_lines = []
+    for line in text.splitlines()[:40]:
         s = line.strip()
         if s == "":
             continue
-        if s[0] in "#/*":                      # a comment line
-            s2 = s.lstrip("#/*  \t")
-            m = re.match(r"([A-Za-z ]+?)\s*:\s*(.+)", s2)
-            if m:
-                fields[m.group(1).strip().lower()] = m.group(2).strip()
+        if s[0] not in "#/*":                  # hit real code -> header done
+            break
+        body = s.lstrip("#/*  \t")
+        m = re.match(r"([A-Za-z ]+?)\s*:\s*(.*)", body)
+        key = m.group(1).strip().lower() if m else None
+
+        if key == "approach":
+            in_approach = True
+            if m.group(2).strip():
+                approach_lines.append(m.group(2).strip())
+            continue
+
+        # A new KNOWN key ends the approach block; anything else while in
+        # approach mode is treated as a continuation line.
+        if in_approach and key not in KNOWN:
+            approach_lines.append(body.strip())
+            continue
         else:
-            break                              # hit real code -> header done
+            in_approach = False
+
+        if m and key in KNOWN:
+            fields[key] = m.group(2).strip()
+
+    if approach_lines:
+        fields["approach"] = " ".join(approach_lines)
     return fields
 
 
@@ -73,19 +100,67 @@ def title_from_slug(slug: str) -> str:
     return slug.replace("-", " ").title() if slug else "Untitled"
 
 
+# Matches a comment line starting an approach block. Only the exact word
+# "Approach" (case-insensitive); the space and colon are optional.
+APPROACH_START = re.compile(r"^\s*[#/*]+\s*approach\s*:?\s*(.*)$", re.IGNORECASE)
+# These header keys, if seen on their own line, should NOT be folded into an approach
+HEADER_KEYS = re.compile(
+    r"^\s*[#/*]+\s*(title|link|difficulty|topics|number|no)\s*:", re.IGNORECASE
+)
+
+
+def collect_approaches(text: str) -> str:
+    """
+    Find EVERY approach block anywhere in the file (not just the header) and
+    combine them. Each block runs from its 'Approach:' line through the
+    following comment lines, stopping at a blank line, a real code line, or a
+    new header key. Blocks are numbered/joined into one cell.
+    """
+    blocks = []
+    lines = text.splitlines()
+    i = 0
+    n = len(lines)
+    while i < n:
+        m = APPROACH_START.match(lines[i])
+        if not m:
+            i += 1
+            continue
+        parts = []
+        if m.group(1).strip():
+            parts.append(m.group(1).strip())
+        i += 1
+        # gather continuation comment lines
+        while i < n:
+            s = lines[i].strip()
+            if s == "":
+                break                       # blank line ends the block
+            if s[0] not in "#/*":
+                break                       # real code ends the block
+            if HEADER_KEYS.match(lines[i]) or APPROACH_START.match(lines[i]):
+                break                       # next key / next approach ends it
+            parts.append(s.lstrip("#/*  \t").strip())
+            i += 1
+        if parts:
+            blocks.append(" ".join(parts))
+    return "  •  ".join(blocks)             # separate multiple approaches clearly
+
+
 def build_problem(key: str, code_files: list, readme_texts: list, topic_dir: Path) -> dict:
     header = {}
     blob = ""
+    approach = ""
     for f in code_files:
         try:
             text = f.read_text(encoding="utf-8", errors="ignore")
         except OSError:
             text = ""
-        blob += "\n" + text[:2000]
+        blob += "\n" + text[:4000]
         if not header:
             h = parse_header(text)
             if h:
                 header = h
+        if not approach:
+            approach = collect_approaches(text)
     for t in readme_texts:
         blob += "\n" + t[:2000]
 
@@ -116,9 +191,7 @@ def build_problem(key: str, code_files: list, readme_texts: list, topic_dir: Pat
         "link": link,
         "diff": diff,
         "topics": header.get("topics", "—"),
-        "tc": header.get("tc", "—"),
-        "sc": header.get("sc", "—"),
-        "approach": header.get("approach", "—"),
+        "approach": approach or header.get("approach", "—"),
         "solution": " ".join(sol),
     }
 

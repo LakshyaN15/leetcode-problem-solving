@@ -20,16 +20,15 @@ def build_table(topic_dir):
     if not probs:
         return "_No problems yet._"
     lines = [
-        "| # | Problem | Difficulty | Topics | TC | SC | Approach | Solution |",
-        "|---|---------|:----------:|--------|----|----|----------|:--------:|",
+        "| # | Problem | Difficulty | Topics | Approach | Solution |",
+        "|---|---------|:----------:|--------|----------|:--------:|",
     ]
-    for p in probs:
-        num = p["num"] if p["num"] is not None else ""
+    for idx, p in enumerate(probs, start=1):
         problem = f"[{p['title']}]({p['link']})" if p["link"] else p["title"]
         diff = DIFF_EMOJI.get(p["diff"], p["diff"] or "—")
         approach = (p["approach"] or "—").replace("|", "\\|").replace("\n", " ")
         lines.append(
-            f"| {num} | {problem} | {diff} | {p['topics']} | {p['tc']} | {p['sc']} | {approach} | {p['solution']} |"
+            f"| {idx} | {problem} | {diff} | {p['topics']} | {approach} | {p['solution']} |"
         )
     return "\n".join(lines)
 
