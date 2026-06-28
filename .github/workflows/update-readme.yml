@@ -6,7 +6,7 @@ on:
     paths:
       - "Data Structures/**"
       - "Algorithms/**"
-      - "Database/**"
+      - "SQL/**"
       - "scripts/**"
   workflow_dispatch:
 
