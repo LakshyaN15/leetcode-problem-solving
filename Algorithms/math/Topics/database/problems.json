@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T17:53:45.262Z",
+  "updatedAt": "2026-06-28T17:54:27.370Z",
   "problems": [
     {
       "frontendId": "176",
@@ -43,6 +43,26 @@
           "path": "Algorithms/math/0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
           "sha": "324a9b7bf2174238862e8ef0579098a75ee45fd4",
           "lastSyncedAt": "2026-06-28T17:53:40.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "Algorithms/math/0197-rising-temperature/",
+      "readmePath": "Algorithms/math/0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0197-rising-temperature.py",
+          "path": "Algorithms/math/0197-rising-temperature/0197-rising-temperature.py",
+          "sha": "2e8a592be9946f412456904af86bc06cccb9d9ce",
+          "lastSyncedAt": "2026-06-28T17:54:27.370Z"
         }
       ]
     },
