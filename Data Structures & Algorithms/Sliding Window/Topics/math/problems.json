@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-28T13:20:55.765Z",
+  "updatedAt": "2026-06-28T13:20:59.273Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "Data Structures & Algorithms/Sliding Window/Medium/0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "e3f6ef2ad449cec6b0cac7a24c49afcc408d73b2",
           "lastSyncedAt": "2026-06-28T13:20:10.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "Data Structures & Algorithms/Sliding Window/Medium/0007-reverse-integer/",
+      "readmePath": "Data Structures & Algorithms/Sliding Window/Medium/0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0007-reverse-integer.cpp",
+          "path": "Data Structures & Algorithms/Sliding Window/Medium/0007-reverse-integer/0007-reverse-integer.cpp",
+          "sha": "eb3d126b82b852d6bf881bc6194517cffc4fd7fe",
+          "lastSyncedAt": "2026-06-28T13:20:59.273Z"
         }
       ]
     },
