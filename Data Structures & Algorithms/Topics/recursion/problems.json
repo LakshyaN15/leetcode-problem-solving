@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-06-28T13:29:17.859Z",
+  "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "Data Structures & Algorithms/Medium/0002-add-two-numbers/",
+      "readmePath": "Data Structures & Algorithms/Medium/0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0002-add-two-numbers.cpp",
+          "path": "Data Structures & Algorithms/Sliding Window/Medium/0002-add-two-numbers/0002-add-two-numbers.cpp",
+          "sha": "e3f6ef2ad449cec6b0cac7a24c49afcc408d73b2",
+          "lastSyncedAt": "2026-06-28T13:29:17.859Z"
+        }
+      ]
+    }
+  ]
+}
