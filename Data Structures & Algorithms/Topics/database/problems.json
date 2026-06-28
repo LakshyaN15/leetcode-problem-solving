@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-06-28T13:29:37.528Z",
+  "updatedAt": "2026-06-28T13:29:39.555Z",
   "problems": [
+    {
+      "frontendId": "185",
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "problemName": "0185-department-top-three-salaries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries/",
+      "folderPath": "Data Structures & Algorithms/Hard/0185-department-top-three-salaries/",
+      "readmePath": "Data Structures & Algorithms/Hard/0185-department-top-three-salaries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0185-department-top-three-salaries.sql",
+          "path": "Data Structures & Algorithms/Sliding Window/Hard/0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
+          "sha": "324a9b7bf2174238862e8ef0579098a75ee45fd4",
+          "lastSyncedAt": "2026-06-28T13:29:39.555Z"
+        }
+      ]
+    },
     {
       "frontendId": "197",
       "title": "Rising Temperature",
