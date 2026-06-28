@@ -3,17 +3,16 @@
 <!-- PROBLEMS:START -->
 | # | Problem | Difficulty | Solution | Approach |
 |---|---------|:----------:|:--------:|----------|
-| 1 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | [Python](32-longest-valid-parentheses/longest-valid-parentheses.py) | — |
-| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | [SQL](176-second-highest-salary/second-highest-salary.sql) | — |
-| 3 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | [SQL](178-rank-scores/rank-scores.sql) | Distinct , Group By and Order By |
-| 4 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | 🟡 Medium | [SQL](180-consecutive-numbers/consecutive-numbers.sql) | Lead() |
-| 5 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | [Python](0197-rising-temperature/0197-rising-temperature.py) [SQL](0197-rising-temperature/0197-rising-temperature.sql) | — |
-| 6 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | [SQL](584-find-customer-referee/find-customer-referee.sql) | — |
-| 7 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | [SQL](595-big-countries/big-countries.sql) | — |
-| 8 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | [SQL](1153-product-sales-analysis-i/product-sales-analysis-i.sql) | — |
-| 9 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
-| 10 | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | [SQL](1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | — |
-| 11 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | [Python](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py) [SQL](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | — |
-| 12 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | [SQL](1827-invalid-tweets/invalid-tweets.sql) | — |
-| 13 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
+| 1 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | [SQL](176-second-highest-salary/second-highest-salary.sql) | — |
+| 2 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | [SQL](178-rank-scores/rank-scores.sql) | Distinct , Group By and Order By |
+| 3 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | 🟡 Medium | [SQL](180-consecutive-numbers/consecutive-numbers.sql) | Lead() |
+| 4 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | [Python](0197-rising-temperature/0197-rising-temperature.py) [SQL](0197-rising-temperature/0197-rising-temperature.sql) | — |
+| 5 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | [SQL](584-find-customer-referee/find-customer-referee.sql) | — |
+| 6 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | [SQL](595-big-countries/big-countries.sql) | — |
+| 7 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | [SQL](1153-product-sales-analysis-i/product-sales-analysis-i.sql) | — |
+| 8 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
+| 9 | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | [SQL](1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | — |
+| 10 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | [Python](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py) [SQL](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | — |
+| 11 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | [SQL](1827-invalid-tweets/invalid-tweets.sql) | — |
+| 12 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
 <!-- PROBLEMS:END -->
