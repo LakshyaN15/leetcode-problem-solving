@@ -2,8 +2,6 @@
 # Link: https://leetcode.com/problems/reverse-integer/
 # Difficulty: Medium
 # Topics: Math
-# TC: O(n)
-# SC: O(n)
 # Approach: 1. Brute Force - initialize 2 var I and j to itr and check if nums[i]==nums[j] return true return false end;
 # TC = O(n^2) SC=O(n)
 # 2. Sorting - sort using nums.sort() and compare nums[i]==nums[i-1]
