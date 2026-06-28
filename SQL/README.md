@@ -4,7 +4,7 @@
 | # | Problem | Difficulty | Solution | Approach |
 |---|---------|:----------:|:--------:|----------|
 | 1 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | [SQL](176-second-highest-salary/second-highest-salary.sql) | — |
-| 2 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | [SQL](178-rank-scores/rank-scores.sql) | - Distinct , Group By and Order By |
+| 2 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | [SQL](178-rank-scores/rank-scores.sql) | Distinct , Group By and Order By |
 | 3 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | 🟡 Medium | [SQL](180-consecutive-numbers/consecutive-numbers.sql) | Lead() |
 | 4 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | [Python](0197-rising-temperature/0197-rising-temperature.py) [SQL](0197-rising-temperature/0197-rising-temperature.sql) | — |
 | 5 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | [SQL](584-find-customer-referee/find-customer-referee.sql) | — |
