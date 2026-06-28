@@ -1,4 +1,4 @@
-# Approach - Distinct , Group By and Order By
+# Approach: Distinct , Group By and Order By
 SELECT S.score ,COUNT(S2.SCORE) as `rank` FROM SCORES S,
 (SELECT DISTINCT SCORE FROM SCORES)  S2
 WHERE S.SCORE<=S2.SCORE 
