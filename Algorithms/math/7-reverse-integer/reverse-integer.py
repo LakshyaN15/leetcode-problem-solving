@@ -4,7 +4,7 @@
 # Topics: Math
 # TC: O(n)
 # SC: O(n)
-# Approach: 
+# Approach: No
 
 class Solution(object):
     def reverse(self, x: int) -> int:
