@@ -1,6 +1,11 @@
+# Topics: Hash Table, String, Sorting
+# Input: s = "anagram", t = "nagaram"
+# Output: true
+
 # Approach: 1. Sorting -> check characters with same freq. Use sorted() to check both strs.
 # TC: O(nlogn+mlogM)
 # SC: O(1) or O(n+m) depending on sorting algo
+
 # class Solution:
 #     def isAnagram(self, s: str, t: str) -> bool:
 #         if len(s)!=len(t):
@@ -12,6 +17,7 @@
 #  hash map (or dict) to track freq, if matches both count(key,val) then true
 # TC: O(n+m) , n is len of s and m len of t
 # SC: O(1) since we have 26 diff char
+
 # class Solution:
 #     def isAnagram(self, s: str, t: str) -> bool:
 #         if len(s)!=len(t):
