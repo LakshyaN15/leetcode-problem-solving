@@ -1,10 +1,11 @@
-# Title: 
-# Link: 
-# Difficulty: 
 # Topics: 
+# Input: 
+# Output: 
+# Explanation: 
+# Approach: Eg. 1. Sum first K elements, slide across array -> add new element
+# Subtract the element leaving window, track max sum seen and divide final max by k to get avg
 # TC: 
 # SC: 
-# Approach: 
 
 from typing import List
 
