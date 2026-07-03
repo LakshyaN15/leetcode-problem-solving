@@ -1,4 +1,4 @@
-# Topic: Array, Hash Table, Sorting
+# Topics: Array, Hash Table, Sorting
 # Input: [1,2,3,1]
 # Output: true
 # Explanantion: The element 1 occurs at the indices 0 and 3.
