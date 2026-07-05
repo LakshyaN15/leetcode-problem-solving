@@ -12,7 +12,7 @@
 | 7 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | [SQL](595-big-countries/big-countries.sql) | — |
 | 8 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | [SQL](1153-product-sales-analysis-i/product-sales-analysis-i.sql) | — |
 | 9 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
-| 10 | [Students And Examinations](https://leetcode.com/problems/students-and-examinations/) | 🟢 Easy | [SQL](1415-students-and-examinations/students-and-examinations.sql) | Cross Joins |
+| 10 | [Students And Examinations](https://leetcode.com/problems/students-and-examinations/) | 🟢 Easy | [SQL](1415-students-and-examinations/students-and-examinations.sql) | Cross Joins, Group By and Order By |
 | 11 | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | [SQL](1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | — |
 | 12 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | [Python](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py) [SQL](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | — |
 | 13 | [Average Time Of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | [SQL](1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | Self joins and round |
