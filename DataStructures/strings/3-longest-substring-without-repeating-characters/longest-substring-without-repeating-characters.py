@@ -17,7 +17,7 @@
 #             res=max(res,len(charSet))
 #         return res
 
-# Approach: Sliding Window -> We declare a set() , a starting point l , res = 0     Give for loop and while s[r] in charset, if yes, charset.remove(s[r]) and l+=1, else add to charset and use res=max(res,l-r+1), then return res
+# Approach: 2. Sliding Window -> We declare a set() , a starting point l , res = 0     Give for loop and while s[r] in charset, if yes, charset.remove(s[r]) and l+=1, else add to charset and use res=max(res,l-r+1), then return res
 # TC: O(n)
 # SC: O(m), M is the size of the character set (e.g., 128 for ASCII). Since M is a fixed number, the space complexity for all approaches can be considered O(1).
 
