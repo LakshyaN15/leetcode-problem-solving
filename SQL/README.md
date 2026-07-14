@@ -19,4 +19,5 @@
 | 14 | [Average Time Of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | [SQL](1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | Self joins and round |
 | 15 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | [SQL](1827-invalid-tweets/invalid-tweets.sql) | — |
 | 16 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
+| 17 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | 🟡 Medium | [SQL](2087-confirmation-rate/confirmation-rate.sql) | Round, IFNULL, AVG, Left Join, Group By |
 <!-- PROBLEMS:END -->
