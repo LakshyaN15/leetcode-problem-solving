@@ -7,7 +7,7 @@
 | 2 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | [SQL](178-rank-scores/rank-scores.sql) | Distinct , Group By and Order By |
 | 3 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | 🟡 Medium | [SQL](180-consecutive-numbers/consecutive-numbers.sql) | Lead() |
 | 4 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | [Python](0197-rising-temperature/0197-rising-temperature.py) [SQL](0197-rising-temperature/0197-rising-temperature.sql) | — |
-| 5 | [Managers With At Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | [SQL](570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | — |
+| 5 | [Managers With At Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | [SQL](570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | Joins<br>Subquery, Joins |
 | 6 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | [SQL](577-employee-bonus/employee-bonus.sql) | Join, comparison and special operators |
 | 7 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | [SQL](584-find-customer-referee/find-customer-referee.sql) | — |
 | 8 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | [SQL](595-big-countries/big-countries.sql) | — |
