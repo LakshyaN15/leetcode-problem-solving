@@ -3,7 +3,7 @@
 Solutions organized by topic. Counts update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-27-blue) ![Easy](https://img.shields.io/badge/Easy-17-brightgreen) ![Medium](https://img.shields.io/badge/Medium-9-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Solved](https://img.shields.io/badge/Solved-28-blue) ![Easy](https://img.shields.io/badge/Easy-18-brightgreen) ![Medium](https://img.shields.io/badge/Medium-9-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 <!-- BADGES:END -->
 
 ---
@@ -44,7 +44,7 @@ Solutions organized by topic. Counts update automatically on every push.
 <!-- SQL:START -->
 | Category | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |----------|--------|:------:|:------:|:------:|:------:|
-| SQL | [SQL](SQL) | 12 | 5 | 0 | 17 |
+| SQL | [SQL](SQL) | 13 | 5 | 0 | 18 |
 <!-- SQL:END -->
 
 ---
