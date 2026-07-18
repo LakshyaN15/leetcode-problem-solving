@@ -13,13 +13,14 @@
 | 8 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | [SQL](595-big-countries/big-countries.sql) | — |
 | 9 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | 🟢 Easy | [SQL](620-not-boring-movies/not-boring-movies.sql) | %, != |
 | 10 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | [SQL](1153-product-sales-analysis-i/product-sales-analysis-i.sql) | — |
-| 11 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
-| 12 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | 🟢 Easy | [SQL](1390-average-selling-price/average-selling-price.sql) | ROUND, IFNULL, SUM, Joins, Between, Group By |
-| 13 | [Students And Examinations](https://leetcode.com/problems/students-and-examinations/) | 🟢 Easy | [SQL](1415-students-and-examinations/students-and-examinations.sql) | Cross Joins, Group By and Order By |
-| 14 | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | [SQL](1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | — |
-| 15 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | [Python](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py) [SQL](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | — |
-| 16 | [Average Time Of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | [SQL](1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | Self joins and round |
-| 17 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | [SQL](1827-invalid-tweets/invalid-tweets.sql) | — |
-| 18 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
-| 19 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | 🟡 Medium | [SQL](2087-confirmation-rate/confirmation-rate.sql) | Round, IFNULL, AVG, Left Join, Group By |
+| 11 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | 🟢 Easy | [SQL](1161-project-employees-i/project-employees-i.sql) | ROUND,AVG, Joins, Group By |
+| 12 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
+| 13 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | 🟢 Easy | [SQL](1390-average-selling-price/average-selling-price.sql) | ROUND, IFNULL, SUM, Joins, Between, Group By |
+| 14 | [Students And Examinations](https://leetcode.com/problems/students-and-examinations/) | 🟢 Easy | [SQL](1415-students-and-examinations/students-and-examinations.sql) | Cross Joins, Group By and Order By |
+| 15 | [Replace Employee Id With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | [SQL](1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | — |
+| 16 | [Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | [Python](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.py) [SQL](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | — |
+| 17 | [Average Time Of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | [SQL](1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | Self joins and round |
+| 18 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | [SQL](1827-invalid-tweets/invalid-tweets.sql) | — |
+| 19 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
+| 20 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | 🟡 Medium | [SQL](2087-confirmation-rate/confirmation-rate.sql) | Round, IFNULL, AVG, Left Join, Group By |
 <!-- PROBLEMS:END -->
