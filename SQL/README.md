@@ -15,7 +15,7 @@
 | 10 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | [SQL](1153-product-sales-analysis-i/product-sales-analysis-i.sql) | — |
 | 11 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | 🟢 Easy | [SQL](1161-project-employees-i/project-employees-i.sql) | ROUND,AVG, Joins, Group By |
 | 12 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
-| 13 | [Immediate Food Delivery Ii](https://leetcode.com/problems/immediate-food-delivery-ii/) | 🟡 Medium | [SQL](1292-immediate-food-delivery-ii/immediate-food-delivery-ii.sql) | ROUND, AVG, Subquery, MIN |
+| 13 | [Immediate Food Delivery Ii](https://leetcode.com/problems/immediate-food-delivery-ii/) | 🟡 Medium | [SQL](1292-immediate-food-delivery-ii/immediate-food-delivery-ii.sql) | ROUND, AVG, Subquery, MIN, Count |
 | 14 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | 🟡 Medium | [SQL](1317-monthly-transactions-i/monthly-transactions-i.sql) | LEFT (takes char from left accroding to numbers/str), SUM, CASE WHEN %Y-> 2025 %y-> 25 %M-> September %m-> 09 %d-> 12 Capital = full form (%Y = 2025, %M = September). Small = short form (%y = 25, %b = Sep). |
 | 15 | [Queries Quality And Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | 🟢 Easy | [SQL](1338-queries-quality-and-percentage/queries-quality-and-percentage.sql) | ROUND, CAST, CASE WHEN THEN 1 ELSE 0 END, SUM, IF, GROUP BY, IS NOT NULL |
 | 16 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | 🟢 Easy | [SQL](1390-average-selling-price/average-selling-price.sql) | ROUND, IFNULL, SUM, Joins, Between, Group By |
