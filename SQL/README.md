@@ -14,7 +14,7 @@
 | 9 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | 🟢 Easy | [SQL](620-not-boring-movies/not-boring-movies.sql) | %, != |
 | 10 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | [SQL](1153-product-sales-analysis-i/product-sales-analysis-i.sql) | — |
 | 11 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | 🟢 Easy | [SQL](1161-project-employees-i/project-employees-i.sql) | ROUND,AVG, Joins, Group By |
-| 12 | [User Activity For The Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | 🟢 Easy | [SQL](1245-user-activity-for-the-past-30-days-i/user-activity-for-the-past-30-days-i.sql) | — |
+| 12 | [User Activity For The Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | 🟢 Easy | [SQL](1245-user-activity-for-the-past-30-days-i/user-activity-for-the-past-30-days-i.sql) | COUNT, DISTINCT, DATE_SUB, INTERVAL, GROUPBY |
 | 13 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | [SQL](1258-article-views-i/article-views-i.sql) | — |
 | 14 | [Immediate Food Delivery Ii](https://leetcode.com/problems/immediate-food-delivery-ii/) | 🟡 Medium | [SQL](1292-immediate-food-delivery-ii/immediate-food-delivery-ii.sql) | ROUND, AVG, Subquery, MIN, Count |
 | 15 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | 🟡 Medium | [SQL](1317-monthly-transactions-i/monthly-transactions-i.sql) | LEFT (takes char from left accroding to numbers/str), SUM, CASE WHEN %Y-> 2025 %y-> 25 %M-> September %m-> 09 %d-> 12 Capital = full form (%Y = 2025, %M = September). Small = short form (%y = 25, %b = Sep). |
