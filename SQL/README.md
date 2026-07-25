@@ -28,7 +28,8 @@
 | 23 | [Percentage Of Users Attended A Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | 🟢 Easy | [SQL](1773-percentage-of-users-attended-a-contest/percentage-of-users-attended-a-contest.sql) | ROUND, COUNT, GROUP BY , ORDER BY DESC and ASC, Subquery |
 | 24 | [Average Time Of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | [SQL](1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | Self joins and round |
 | 25 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | [SQL](1827-invalid-tweets/invalid-tweets.sql) | — |
-| 26 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
-| 27 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | 🟡 Medium | [SQL](2087-confirmation-rate/confirmation-rate.sql) | Round, IFNULL, AVG, Left Join, Group By |
-| 28 | [Number Of Unique Subjects Taught By Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 Easy | [SQL](2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | COUNT, DISTINCT, Group by |
+| 26 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | [SQL](1877-find-followers-count/find-followers-count.sql) | COUNT, GROUP BY, ORDER BY |
+| 27 | [Recyclable And Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | [SQL](1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | — |
+| 28 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | 🟡 Medium | [SQL](2087-confirmation-rate/confirmation-rate.sql) | Round, IFNULL, AVG, Left Join, Group By |
+| 29 | [Number Of Unique Subjects Taught By Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 Easy | [SQL](2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | COUNT, DISTINCT, Group by |
 <!-- PROBLEMS:END -->
