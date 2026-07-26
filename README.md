@@ -3,7 +3,7 @@
 Solutions organized by topic. Counts update automatically on every push.
 
 <!-- BADGES:START -->
-![Solved](https://img.shields.io/badge/Solved-40-blue) ![Easy](https://img.shields.io/badge/Easy-27-brightgreen) ![Medium](https://img.shields.io/badge/Medium-12-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Solved](https://img.shields.io/badge/Solved-41-blue) ![Easy](https://img.shields.io/badge/Easy-28-brightgreen) ![Medium](https://img.shields.io/badge/Medium-12-orange) ![Hard](https://img.shields.io/badge/Hard-1-red)
 <!-- BADGES:END -->
 
 ---
@@ -13,7 +13,7 @@ Solutions organized by topic. Counts update automatically on every push.
 <!-- DS:START -->
 | Topic | Folder | 🟢 Easy | 🟡 Med | 🔴 Hard | Solved |
 |-------|--------|:------:|:------:|:------:|:------:|
-| Arrays | [arrays](DataStructures/arrays) | 3 | 1 | 0 | 4 |
+| Arrays | [arrays](DataStructures/arrays) | 4 | 1 | 0 | 5 |
 | Graphs | [graphs](DataStructures/graphs) | 0 | 0 | 0 | 0 |
 | Hashing | [hashing](DataStructures/hashing) | 0 | 0 | 0 | 0 |
 | Heap | [heap](DataStructures/heap) | 0 | 0 | 0 | 0 |
@@ -21,7 +21,7 @@ Solutions organized by topic. Counts update automatically on every push.
 | Stack And Queue | [stack-and-queue](DataStructures/stack-and-queue) | 0 | 0 | 0 | 0 |
 | Strings | [strings](DataStructures/strings) | 1 | 2 | 0 | 3 |
 | Trees | [trees](DataStructures/trees) | 0 | 0 | 0 | 0 |
-| **Total** | | **4** | **3** | **0** | **7** |
+| **Total** | | **5** | **3** | **0** | **8** |
 <!-- DS:END -->
 
 ## ⚙️ Algorithms & Techniques
